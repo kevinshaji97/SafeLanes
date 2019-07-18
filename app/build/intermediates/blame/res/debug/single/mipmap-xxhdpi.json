@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\and\\safelanes\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "E:\\and\\safelanes\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\and\\safelanes\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\and\\safelanes\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
