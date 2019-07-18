@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kevin Yob\.android\build-cache\e78c10ebb2cff629f4b1fd744de93feb23191f39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="E:\and\safelanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed24670913baf9691dbfac831f8b28dfbb1e5149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\and\safelanes\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\and\safelanes\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d8727829fc89cda47747c7adeca7471d7dd12bdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kevin Yob\.android\build-cache\bed7ab7a4accc7792e698c947bdbbfd88f48db50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="E:\and\safelanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e1ac1bb4f3b67f85579109eb50dbf6f75177819\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kevin Yob\.android\build-cache\e2d37cce85fe42c508a14045bc65c88bc6529dba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="E:\and\safelanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8620c33f6ef0ab40b1dbf5aa5f742b30f888e29a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kevin Yob\.android\build-cache\5294c69ff172abd982bad6e56dc2531ef3b20375\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="E:\and\safelanes\app\build\intermediates\pre-dexed\debug\classes_ce5a2572f2c7bdac32b04bdbf13b2316f4c7222d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kevin Yob\.android\build-cache\bed7ab7a4accc7792e698c947bdbbfd88f48db50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="E:\and\safelanes\app\build\intermediates\pre-dexed\debug\classes_5e1ac1bb4f3b67f85579109eb50dbf6f75177819.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kevin Yob\.android\build-cache\e2d37cce85fe42c508a14045bc65c88bc6529dba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="E:\and\safelanes\app\build\intermediates\pre-dexed\debug\classes_8620c33f6ef0ab40b1dbf5aa5f742b30f888e29a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\and\safelanes\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d26079496ad8e5bd3ee3a1f53c59e2a88ad211cb">
+        <dex dex="E:\and\safelanes\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ce5fd8dee56322630e167e18ff89d3243addfe92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kevin Yob\.android\build-cache\aa95b4d16878607f0c0961d535d47f7db4e0d10a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="E:\and\safelanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47aa6b81c4bc7d4ad73bfec06312ac45a38fc550\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kevin Yob\.android\build-cache\5294c69ff172abd982bad6e56dc2531ef3b20375\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="E:\and\safelanes\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce5a2572f2c7bdac32b04bdbf13b2316f4c7222d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kevin Yob\.android\build-cache\aa95b4d16878607f0c0961d535d47f7db4e0d10a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="E:\and\safelanes\app\build\intermediates\pre-dexed\debug\classes_47aa6b81c4bc7d4ad73bfec06312ac45a38fc550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kevin Yob\.android\build-cache\e78c10ebb2cff629f4b1fd744de93feb23191f39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="E:\and\safelanes\app\build\intermediates\pre-dexed\debug\classes_ed24670913baf9691dbfac831f8b28dfbb1e5149.jar" />
+    </item>
+
+</items>
